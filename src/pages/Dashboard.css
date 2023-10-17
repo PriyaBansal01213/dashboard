@@ -1,0 +1,48 @@
+.box-container {
+  margin-left: 15rem;
+  height:100%;
+}
+.grid-class{
+    margin-top: 4rem;
+    width:16rem;
+}
+.card-content{
+    margin-top:2rem;
+}
+.avatar{
+    padding-top: 1.5rem;
+}
+.month-header{
+  font-size: 1px;
+}
+.difference{
+  font-size: 12px;
+  color:green;
+}
+.difference-error{
+  font-size: 12px;
+  color:red;
+}
+.downarrow{
+  size:14px;
+  color:red;
+}
+.uparrow{
+  font-size:14px;
+  color:green;
+}
+.chart-box{
+  margin-top:3rem;
+  margin-left: 1.6rem;
+}
+.donut-box{
+  margin-top:3rem;
+  width:20rem;
+}
+.customer-title{
+  padding-left:1rem;
+  color:#d9d9d9;
+}
+.donut-chart{
+  margin-top:4rem;
+}

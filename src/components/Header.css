@@ -1,0 +1,25 @@
+.topNav-header {
+  margin-left: 15rem;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.topNav-intro {
+  margin-left: 0.5rem;
+  margin-top: 3rem;
+  font-size: 1.2rem;
+  position: absolute;
+}
+
+.topNav-search {
+  width: 15em;
+  right: 18rem;
+  right:0;
+  margin-right:2rem;
+  position: absolute;
+  margin-top: 2.7rem;
+}
+.search-icon {
+  margin-top: 0.4rem;
+}

@@ -1,0 +1,1 @@
+export const profile = require("../images.jpeg");
